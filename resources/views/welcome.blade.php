@@ -20,10 +20,10 @@
     </div>
     <nav class="navbar">
         <div class="max-width">
-            <div class="logo"><a href="#">Surat<span>Keluar.</span></a></div>
+            <div class="logo"><a href="#">Data<span>Kendaraan.</span></a></div>
             <ul class="menu">
                 <li><a href="#home" class="menu-btn">Home</a></li>
-                <li><a href="https://utspegawai.herokuapp.com/pegawai" class="menu-btn">Surat Keluar</a></li>
+                <li><a href="https://uts-fp-18090138.herokuapp.com/pegawai" class="menu-btn">Surat Keluar</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
@@ -39,7 +39,7 @@
                 <div class="text-1">Name </div>
                 <div class="text-2">Hafizh Umar Syafiqh</div>
                 <div class="text-3"><span class="typing"></span></div>
-                <a href="https://utspegawai.herokuapp.com/pegawai">Start</a>
+                <a href="https://uts-fp-18090138.herokuapp.com/pegawai">Start</a>
             </div>
           </div>
       </div>

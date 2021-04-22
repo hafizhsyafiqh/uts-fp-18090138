@@ -5,13 +5,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
-        <title>18090091</title>
+        <title>18090138</title>
     </head>
     <body>
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header bg-danger text-center">
-                    CRUD Surat Keluar - <a href="#" target="_blank"> Revan Febriansyah</a>
+                    CRUD Data Kendaraan - <a href="#" target="_blank"> Hafizh Umar Syafiqh</a>
                 </div>
             </div>
 
@@ -45,7 +45,7 @@
         </div>
          <!-- footer section start -->
     <footer>
-        <span>Created By <a href="#">Revan Febriansyah</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
+        <span>Created By <a href="#">Hafizh Umar Syafiqh</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
