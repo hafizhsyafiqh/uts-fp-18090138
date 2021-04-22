@@ -37,7 +37,7 @@
           <div class="row">
             <div class="home-content">
                 <div class="text-1">Name </div>
-                <div class="text-2">Revan Febriansyah</div>
+                <div class="text-2">Hafizh Umar Syafiqh</div>
                 <div class="text-3"><span class="typing"></span></div>
                 <a href="https://utspegawai.herokuapp.com/pegawai">Start</a>
             </div>
@@ -48,7 +48,7 @@
 
     <!-- footer section start -->
     <footer>
-        <span>Created By <a href="#">Getar Jagat Dewantara</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
+        <span>Created By <a href="#">Hafizh Umar Syafiqh</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
